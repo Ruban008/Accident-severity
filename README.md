@@ -1,1 +1,7 @@
-# Accident-severity
+ACCIDENT_SEVERITY : TO CHOOSE THE BEST MODEL FOR DEPLOYMENT
+
+ACCIDENT_SEVERITY_DEPLOYER : MODIFIED WORK WITH THE BEST MODEL SELECTED FROM ACCIDENT_SEVERITY
+
+check out the accident severity of an injured person. . . . RESTART THE SPACE IF IT IS SLEEPING.
+
+LINK: https://huggingface.co/spaces/Shanth008/Accident_severity
